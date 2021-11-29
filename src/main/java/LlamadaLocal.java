@@ -1,16 +1,16 @@
 public class LlamadaLocal implements Llamada{
 
-    private double costoMinuto;
+    private FranjaHoraria franjaHoraria;
     private double minutosLLamada;
 
-    public LlamadaLocal(double costoMinuto, double minutosLLamada) {
-        this.costoMinuto = costoMinuto;
+    public LlamadaLocal(FranjaHoraria franjaHoraria, double minutosLLamada) {
+        this.franjaHoraria = franjaHoraria;
         this.minutosLLamada = minutosLLamada;
     }
 
     @Override
     public double costoLlamada() {
-        return costoMinuto * minutosLLamada;
+        return franjaHoraria.costoLlamada(minutosLLamada);
     }
 
 }
