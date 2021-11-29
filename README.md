@@ -13,8 +13,10 @@ Realizar un sistema de facturación de llamadas telefónicas teniendo en cuenta 
 4) Las llamadas Internacionales tienen un costo distinto según el país al que se llame
 5) Las llamadas Nacionales tienen un costo distinto según la localidad a la que se llame
    Consideraciones adicionales:
-1) No es necesario realizar una interfaz de usuario visual.
-2) No es necesario realizar persistencia de los datos (o sea, conexión a base de datos, archivos, etc.). Alcanza con simular los datos creándolos en memoria
-3) Como salida alcanza ver por pantalla como sería una factura (sin preocuparse por darle un formato especial)
+6) No es necesario realizar una interfaz de usuario visual.
+7) No es necesario realizar persistencia de los datos (o sea, conexión a base de datos, archivos, etc.). Alcanza con simular los datos creándolos en memoria
+8) Como salida alcanza ver por pantalla como sería una factura (sin preocuparse por darle un formato especial)
 
 ## Desarrollo
+
+Programacion orientada a objetos, aplicando TDD.

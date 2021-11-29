@@ -2,13 +2,13 @@
 
 public class Factura {
 
-    private float abonoMensual;
+    private double abonoMensual;
 
-    public Factura(float abonoMensual) {
+    public Factura(double abonoMensual) {
         this.abonoMensual = abonoMensual;
     }
 
-    public float facturacion() {
+    public double facturacion() {
         return abonoMensual;
     }
 }
