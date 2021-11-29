@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class LlamadasTest {
 
     @Test
-    public void seCreaUnaLLamadaLocalYDevuelveSuCosto(){
+    public void seCreaUnaLlamadaLocalYDevuelveSuCosto(){
         double costoMinuto = 0.2;
         double minutosLLamada = 10;
 
