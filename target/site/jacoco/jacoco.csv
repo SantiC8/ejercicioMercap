@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+ejercicioMercap,default,LlamadaLocal,0,15,0,0,0,5,0,2,0,2
+ejercicioMercap,default,DiasHabiles,0,11,0,0,0,4,0,2,0,2
+ejercicioMercap,default,LlamadaNacional,0,15,0,0,0,5,0,2,0,2
+ejercicioMercap,default,LlamadaInternacional,0,15,0,0,0,5,0,2,0,2
+ejercicioMercap,default,DiasNoHabiles,0,11,0,0,0,4,0,2,0,2
+ejercicioMercap,default,Factura,0,48,0,2,0,10,0,4,0,3
