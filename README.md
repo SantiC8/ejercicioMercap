@@ -20,3 +20,9 @@ Realizar un sistema de facturación de llamadas telefónicas teniendo en cuenta 
 ## Desarrollo
 
 Programacion orientada a objetos, aplicando TDD.
+
+##Diagramas
+
+![imagen](./Clases.png)
+
+![imagen](./calculoCostoFactura.png)
